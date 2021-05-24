@@ -1,15 +1,16 @@
-package FirstTasks;
+//package First;
 
 import java.util.Scanner;
 
-public class Enya {
+/**
+ * https://acmp.ru/index.asp?main=task&id_task=773
+ */
+public class Gulliver {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();
-        int c = scanner.nextInt();
 
-        int result = a*b*c*2;
-        System.out.println(result);
+        System.out.println((a*a)*b  );
     }
 }
