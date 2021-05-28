@@ -22,13 +22,14 @@
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/out/production/Acmp/First/TwoPlusNumbers.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/out/production/Acmp/Gulliver.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/out/production/Acmp/Salary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/Arithmetic.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/ArithmeticProgression.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/Basketball.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/Beads.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/Cake.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/Cranes.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/Enya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/First/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/FiveFive.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/Game.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/Gulliver.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/MoreLess.java" afterDir="false" />
@@ -37,6 +38,7 @@
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/Phone.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/Picking.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/SumNum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/ThreeFatMan.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/TwoBandits.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Задачи для начинающих/src/First/TwoPlusNumbers.java" afterDir="false" />
@@ -46,8 +48,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Задачи для начинающих" />
   </component>
   <component name="ProjectId" id="1t25jMBji5FGh9s1OXy3MC711FT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -70,5 +79,16 @@
       <updated>1621954477731</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
